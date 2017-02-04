@@ -1,0 +1,592 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"tran",
+				"transition-duration"
+			],
+			[
+				"transition",
+				"transition-timing-function"
+			],
+			[
+				"js",
+				"jswing"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"cur",
+				"cur\tcursor: ${pointer};"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"forE",
+				"forEach( callbackfn: Function, thisArg?: any ): Array\tArray"
+			],
+			[
+				"tol",
+				"toLowerCase(): string\tString"
+			],
+			[
+				"trim",
+				"trim(): string\tString"
+			],
+			[
+				"titl",
+				"titleArray"
+			],
+			[
+				"console",
+				"console.log()"
+			],
+			[
+				"toU",
+				"toUpperCase(): string\tString"
+			],
+			[
+				"mat",
+				"Math.floor( x: number ): number\tMath"
+			],
+			[
+				"app",
+				"appendChild( node: Node ): Node\tNode"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"vi",
+				"villej"
+			],
+			[
+				"sai",
+				"Saisissez"
+			],
+			[
+				"re",
+				"recherche_meteo"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"reponset",
+				"responseText\tXMLHttpRequest"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ma",
+				"maVille"
+			],
+			[
+				"H",
+				"HEADER\tTag"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"qu",
+				"querySelector"
+			],
+			[
+				"tot",
+				"totalAge"
+			],
+			[
+				"le",
+				"let "
+			],
+			[
+				"ta",
+				"tableRefill()\tstudents_table.js"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"conso",
+				"console.log()"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"w",
+				"w-a\twidth: auto;"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"clo",
+				"colm\tcolumns"
+			],
+			[
+				"studen",
+				"students"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"s",
+				"script\tTag"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"for",
+				"for (var id in aSome) {"
+			],
+			[
+				"Ar",
+				"Arg_2"
+			],
+			[
+				"A",
+				"arg_1"
+			],
+			[
+				"fi",
+				"filtered"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"ro",
+				"rounded"
+			],
+			[
+				"r",
+				"roundUp"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n<meta charset=\"utf-8\">\n\t<title></title>\n</head>\n<body>\n\n\n\n\n\n\n<!-- on inclut la bibliothèque depuis les serveurs de Google -->\n<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js\"></script>\n<script type=\"text/javascript\"></script>\n</body>\n</html>",
+			"file": "/home/apprenti/WildProjects/Quete_carousel/carousel.html",
+			"file_size": 101,
+			"file_write_time": 131306928958142162,
+			"settings":
+			{
+				"buffer_size": 301,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/apprenti/WildProjects/FormulairesCSS/FormulairesCSS.js",
+			"settings":
+			{
+				"buffer_size": 293,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 264.0,
+		"last_filter": "Package Control: s",
+		"selected_items":
+		[
+			[
+				"Package Control: s",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: if"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/apprenti/WildProjects/FormulairesCSS/FormulairesCSS.html",
+		"/home/apprenti/WildProjects/Quete_carousel/carousel.html",
+		"/home/apprenti/WildProjects/FormulairesCSS/FormulairesCSS.css",
+		"/home/apprenti/WildProjects/FormulairesCSS.CSS",
+		"/home/apprenti/WildProjects/Quete_carousel/css/carousel.sublime-project",
+		"/home/apprenti/WildProjects/WildAstronautes/index.html",
+		"/home/apprenti/.bashrc",
+		"/home/apprenti/WildProjects/WildAstronautes/blog.html",
+		"/home/apprenti/WildProjects/WildAstronautes/css/main.css",
+		"/home/apprenti/WildProjects/WildAstronautes/controllers/effetScroll.js",
+		"/home/apprenti/WildProjects/WildAstronautes/article.html",
+		"/home/apprenti/WildProjects/WildAstronautes/controllers/javascript.js",
+		"/home/apprenti/WildProjects/WildAstronautes/controllers/jquery.js",
+		"/home/apprenti/WildProjects/WildAstronautes/controllers/jquery.easing.1.3.js",
+		"/home/apprenti/WildProjects/js-workshop/students.json",
+		"/home/apprenti/WildProjects/js-workshop/controllers/students_controller.js",
+		"/home/apprenti/WildProjects/js-workshop/views/index.html",
+		"/home/apprenti/WildProjects/js-workshop/collections/students.js",
+		"/home/apprenti/WildProjects/js-workshop/models/student.js",
+		"/home/apprenti/WildProjects/WildAstronautes/README.md",
+		"/css/main.css",
+		"/home/apprenti/WildProjects/QUETES/recherche_meteo.js",
+		"/home/apprenti/Bureau/Lien vers Cours/V2/models/student.js",
+		"/home/apprenti/Bureau/Lien vers Cours/V2/controllers/students_controller.js",
+		"/home/apprenti/Bureau/Lien vers Cours/V2/collections/students.js",
+		"/home/apprenti/Bureau/Lien vers Cours/V2/views/index.html",
+		"/home/apprenti/Bureau/Lien vers Cours/v1.1 - avec tris et fonctions/index.html",
+		"/home/apprenti/Bureau/Lien vers Cours/v1.1 - avec tris et fonctions/students.json",
+		"/home/apprenti/WildProjects/QUETES/Weather.html",
+		"/home/apprenti/Bureau/Lien vers Cours/v1.1 - avec tris et fonctions/students_table_solution.js",
+		"/home/apprenti/Bureau/Lien vers Cours/V2/students.json",
+		"/home/apprenti/WildProjects/Quete_carousel/js/carousel.js",
+		"/home/apprenti/WildProjects/Quete_carousel/css/carousel.css",
+		"/home/apprenti/Bureau/Lien vers Cours/v1.1 - avec tris et fonctions/tacit-0.6.1.min.css",
+		"/home/apprenti/WildProjects/QUETES/meteo_paris.json",
+		"/home/apprenti/WildProjects/WildAstronautes/data/articles_list.json",
+		"/home/apprenti/Cours/v1.1 - avec tris et fonctions/students.json",
+		"/home/apprenti/WildProjects/WildAstronautes/data/structure_json.txt",
+		"/home/apprenti/Cours/v1.1 - avec tris et fonctions/students_table_solution.js",
+		"/home/apprenti/Cours/v1.1 - avec tris et fonctions/index.html",
+		"/home/apprenti/WildProjects/QUETES/tacit-0.6.1.min.css",
+		"/home/apprenti/.config/sublime-text-3/Packages/JavaScript Completions/evaluate_javascript/Default (Linux)_disabled.sublime-keymap",
+		"/home/apprenti/WildProjects/QUETES/old_recherche_meteo.js",
+		"/home/apprenti/WildProjects/QUETES/Weather_boot.html",
+		"/home/apprenti/WildProjects/WildAstronautes/retrospective2.txt",
+		"/home/apprenti/WildProjects/WildAstronautes/retrospectiveS2.txt",
+		"/home/apprenti/WildProjects/WildAstronautes/Retro_S2.odt",
+		"/home/apprenti/WildProjects/WildAstronautes/Retro-s2",
+		"/home/apprenti/WildProjects/QUETES/Creation_dune_requete_HTTP_AJAX.js",
+		"/home/apprenti/WildProjects/QUETES/Creation_dune_requête_HTTP_AJAX.js",
+		"/home/apprenti/WildProjects/QUETES/Creation_dune_requête_HTTP.js",
+		"/home/apprenti/Cours/Intro JS/index.html",
+		"/home/apprenti/Cours/Intro JS/formulaireMeteo.html",
+		"/home/apprenti/WildProjects/QUETES/QueteJavascripting.html",
+		"/home/apprenti/Cours/Intro JS/students_table.js",
+		"/home/apprenti/Cours/chaussettes.fr/chaussures.html",
+		"/home/apprenti/.config/sublime-text-3/Packages/Javascript Beautify/JavascriptBeautify.sublime-settings",
+		"/home/apprenti/WildProjects/QUETES/spaceinvaderLSSA.html",
+		"/home/apprenti/Cours/exos Jerome/students_table.js",
+		"/home/apprenti/Cours/exos Jerome/index.html",
+		"/home/apprenti/Cours/Intro JS/couper_texte.txt",
+		"/home/apprenti/Cours/Intro JS/live-server",
+		"/home/apprenti/Cours/Intro JS/students.json",
+		"/home/apprenti/.bash_profile",
+		"/home/apprenti/WildProjects/WildAstronautes/TITI",
+		"/home/apprenti/Cours/Intro JS/tacit-0.6.1.min.css",
+		"/home/apprenti/Bureau/Wild_Circus_LSSA.html",
+		"/home/apprenti/WildProjects/QUETES/spaceinvader.css",
+		"/home/apprenti/Cours/students_table.js",
+		"/home/apprenti/bootstrap/package.json",
+		"/home/apprenti/WildProjects/QUETES/hello.html",
+		"/home/apprenti/WildProjects/WildAstronautes/ajout-scrollup.html",
+		"/home/apprenti/WildProjects/WildAstronautes/.gitignore",
+		"/home/apprenti/WildProjects/WildAstronautes/ajout-scrollup.css",
+		"/home/apprenti/WildProjects/Challenge_WILD_School/test-fonction.html",
+		"/home/apprenti/WildProjects/Challenge_WILD_School/Wild Circus Company.html",
+		"/home/apprenti/WildProjects/javascripting/objects.js",
+		"/home/apprenti/WildProjects/javascripting/looping-through-arrays.js",
+		"/home/apprenti/WildProjects/javascripting/for-loop.js",
+		"/home/apprenti/WildProjects/QUETES/test.html",
+		"/home/apprenti/WildProjects/QUETES/MonJsIsFun.html",
+		"/home/apprenti/WildProjects/javascripting/accessing-array-values.js",
+		"/home/apprenti/WildProjects/javascripting/array-filtering.js",
+		"/home/apprenti/WildProjects/javascripting/arrays.js",
+		"/home/apprenti/WildProjects/javascripting/function-arguments.js",
+		"/home/apprenti/WildProjects/javascripting/functions.js",
+		"/home/apprenti/WildProjects/javascripting/if-statement.js",
+		"/home/apprenti/WildProjects/javascripting/introduction.js",
+		"/home/apprenti/WildProjects/javascripting/numbers.js",
+		"/home/apprenti/WildProjects/javascripting/number-to-string.js",
+		"/home/apprenti/WildProjects/javascripting/object-properties.js",
+		"/home/apprenti/WildProjects/javascripting/revising-strings.js",
+		"/home/apprenti/WildProjects/javascripting/rounding-numbers.js",
+		"/home/apprenti/WildProjects/javascripting/string-lenght.js",
+		"/home/apprenti/WildProjects/javascripting/strings.js",
+		"/home/apprenti/WildProjects/javascripting/variables.js",
+		"/home/apprenti/.config/sublime-text-3/Packages/JavaScript Completions/javascript_completions/Default (Linux)_disabled.sublime-keymap",
+		"/home/apprenti/.config/sublime-text-3/Packages/JsFormat/Default (Linux).sublime-keymap",
+		"/home/apprenti/.config/sublime-text-3/Packages/JavaScript Completions/helper/Default (Linux).sublime-keymap",
+		"/home/apprenti/.config/sublime-text-3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+		"/home/apprenti/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+		"/home/apprenti/WildProjects/javascripting/function.js",
+		"/home/apprenti/WildProjects/javascripting/string.js",
+		"/home/apprenti/WildProjects/wild-link/same_file.js",
+		"/home/apprenti/WildProjects/wild-link/not_same_file.js",
+		"/home/apprenti/WildProjects/wild-link/README.md",
+		"/home/apprenti/WildProjects/wild-link/secret_file.js",
+		"/home/apprenti/WildProjects/wild-link/.gitignore",
+		"/home/apprenti/WildProjects/QUETES/README.md",
+		"/home/apprenti/WildProjects/cours_Git",
+		"/home/apprenti/WildProjects/Hello_Github.txt",
+		"/home/apprenti/.ssh/id_rsa",
+		"/home/apprenti/.ssh/id_rsa.pub",
+		"/home/apprenti/WildProjects/pseudo_code.txt",
+		"/home/apprenti/WildProjects/ma quete GIST",
+		"/home/apprenti/WildProjects/test.txt"
+	],
+	"find":
+	{
+		"height": 159.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/apprenti/WildProjects/WildAstronautes"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"thb",
+			"tbh",
+			"javascript.js",
+			"+",
+			"thb-scrollup",
+			"link",
+			"ease",
+			"#",
+			".a",
+			"#a",
+			"thb-",
+			"submit",
+			"md",
+			"xs",
+			"lg",
+			"6",
+			"json",
+			"indent"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"xs",
+			"md",
+			"xs"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/apprenti/WildProjects/Quete_carousel/carousel.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/apprenti/WildProjects/FormulairesCSS/FormulairesCSS.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 293,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 58.0
+	},
+	"pinned_build_system": "",
+	"project": "carousel.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
